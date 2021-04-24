@@ -15,7 +15,7 @@ function HomePage() {
       </div>
       </div>
 
-      <div className = "max-w-4xl mx-auto mt-20">
+      <div className = "img-auto mt-20">
        <img src= "/rabia.JPG"></img>
       </div>
       </>
